@@ -5,6 +5,7 @@ dirt coin token
 
 dimecoindirtiest, better known as dirt coin, now has a new token, called **dirt coin token**.
 
+
 ----------
 
 
@@ -20,6 +21,7 @@ Hence, the birth of dirt coin token was conceived.
 
 
 -----
+
 
 Dirt Coin Token Specs
 =====================
@@ -37,6 +39,7 @@ Reissuable:       |  No   |
 Issue Date:         |  11/27/2017 1:45:19 | 
 
 
+-----
 
 
 WAVESDEX / WAVES DECENTRALIZED EXCHANGE
@@ -53,6 +56,7 @@ You can trade for any old token, or hard cash.
 
 -----
 
+
 Links
 =====
 
@@ -62,6 +66,7 @@ Links
 [dirt coin token forum](http://dirt.freeforums.net/)
 
 [Bitcoin talk (new thread)](https://bitcointalk.org/index.php?topic=2505315.0)
+
 
 -----
 
